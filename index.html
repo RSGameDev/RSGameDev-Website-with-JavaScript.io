@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Gaming Compendium</title>
+    <link rel="stylesheet" type="text/css" href="gamingStyles.css" />
+    <!--<style>
+        #indexImg {
+            width: 960px;
+        }
+    </style>-->
+</head>
+<body>
+
+    <script src="feature.js"></script>
+
+    <!-- this is the dark mode feature-->
+    <button onclick="darkModeFunction()">Toggle dark mode</button>
+    <!--<script>
+        function darkModeFunction() {
+            var element = document.body;
+            element.classList.toggle("dark-mode");
+        }
+    </script>-->
+
+    <!--header includes the main logo, and navigation section-->
+    <header>
+
+        <img src="images/logo.png" alt="Alternate Text" />
+        <nav id="nav">
+            <div class="container">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="gallery.html">gallery</a></li>
+                    <li><a href="contact.html">contact</a></li>
+                    <li><a href="about us.html">about us</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <script>
+        window.onscroll = function () { stickyFunction() };
+
+        var navbar = document.getElementById("nav");
+        var sticky = navbar.offsetTop;
+
+        function stickyFunction() {
+            if (window.scrollY >= sticky) {
+                navbar.classList.add("sticky")
+            } else {
+                navbar.classList.remove("sticky");
+            }
+        }
+    </script>
+
+    <!--main will contain the core text for the home page; gameplay, presentation, verdict for the game review-->
+    <main>
+        <div class="container">
+            <h1>Heartstone Review</h1>
+            <p>Gameplay: The gameplay is so addictive and always had me talking myself into just one more game each time I finished playing one. </p>
+            <p>Presentation: Blizzard being Blizzard, the presentation of Hearthstone is great.  The graphics are expertly and beautifully crafted.  It is the little things like how the cards move onto the board and then turn into either a minion or manifest themselves in a brutal attack. </p>
+            <p>
+                Verdict: It’s always a good sign when a game’s only major downside is that there just isn’t enough of it. The elegant simplicity of Hearthstone’s rules, its impressive attention to detail and personality, and the true viability of playing completely for free make it easy to fall under its spell and get blissfully lost in the depths of its strategic possibilities.
+            </p>
+            <!--<img id="indexImg" src="images/indexheroes.jpg" alt="image of ...." /> -->
+            <img src="images/indexheroes.jpg" alt="image of ...." />
+        </div>
+    </main>
+
+</body>
+
+<!--footer will containg the navigation for the website to aid user in navigating conveniently-->
+<footer>
+    <div class="container">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="gallery.html">gallery</a></li>
+            <li><a href="contact.html">contact</a></li>
+            <li><a href="about us.html">about us</a></li>
+        </ul>
+    </div>
+</footer>
+
+</html>
+
+<!--
+countdown timer poss
+
+--> 
