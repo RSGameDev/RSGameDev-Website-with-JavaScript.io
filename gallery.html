@@ -5,6 +5,7 @@
     <meta charset="utf-8" />
     <title>Gaming Compendium</title>
     <link rel="stylesheet" type="text/css" href="gamingStyles.css" />
+    <script src="feature.js" defer></script>
     <style>
         .container {
             position: relative;
@@ -13,9 +14,13 @@
         }
     </style>
 </head>
-<body>
+<body>      
+
+    <!-- this is the dark mode feature-->
+    <button onclick="darkModeFunction()">Toggle dark mode</button>
+
     <header>
-        <nav>
+        <nav id="nav">
             <div class="container">
                 <ul>
                     <li><a href="index.html">Home</a></li>
@@ -50,7 +55,7 @@
 
             <div class="mySlides">
                 <div class="numbertext">4 / 4</div>
-                <img src="images/hs4.jpg"">
+                <img src="images/hs4.jpg" ">
             </div>
 
             <!-- Next and previous buttons -->
