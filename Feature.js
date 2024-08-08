@@ -25,3 +25,9 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 });
+
+// Popup
+function popUpFunction() {
+    var popup = document.getElementById("myPopup");
+    popup.classList.toggle("show");
+}
