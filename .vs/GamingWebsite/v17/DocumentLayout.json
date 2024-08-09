@@ -34,21 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "feature.js",
-              "DocumentMoniker": "E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\feature.js",
-              "RelativeDocumentMoniker": "feature.js",
-              "ToolTip": "E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\feature.js",
-              "RelativeToolTip": "feature.js",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAAC0AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-09T14:53:22.909Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -59,7 +46,8 @@
               "RelativeToolTip": "gamingStyles.css",
               "ViewState": "AQIAAG8AAAAAAAAAAAAAAIkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-08T20:42:18.824Z"
+              "WhenOpened": "2024-08-08T20:42:18.824Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -78,8 +66,25 @@
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "feature.js",
+              "DocumentMoniker": "E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\feature.js",
+              "RelativeDocumentMoniker": "feature.js",
+              "ToolTip": "E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\feature.js",
+              "RelativeToolTip": "feature.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-09T15:03:24.9Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -103,8 +108,7 @@
               "RelativeToolTip": "gallery.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAIgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-09T08:37:47.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T08:37:47.485Z"
             },
             {
               "$type": "Document",
@@ -116,8 +120,7 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAADEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-08T20:40:07.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T20:40:07.062Z"
             }
           ]
         }
