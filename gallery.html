@@ -5,6 +5,7 @@
     <meta charset="utf-8" />
     <title>Gaming Compendium</title>
     <link rel="stylesheet" type="text/css" href="gamingStyles.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="feature.js" defer></script>
     <style>
         .container {
@@ -16,8 +17,11 @@
 </head>
 <body>
 
-    <!-- this is the dark mode feature-->
+    <!-- JavaScript dark mode feature-->
     <button onclick="darkModeFunction()">Toggle dark mode</button>
+
+    <!-- JavaScript Fullscreen button addition -->
+    <button class="fullscreen-btn" onclick="openFullscreen();">⛶</button>
 
     <header>
         <nav id="nav">
@@ -32,9 +36,8 @@
         </nav>
     </header>
 
-    <button class="fullscreen-btn" onclick="openFullscreen();">⛶</button>
-
     <main>
+
         <div class="container">
             <h1>Hearthstone Gameplay</h1>
             <p></p>
@@ -119,7 +122,6 @@
     </script>
 
 </body>
-
 
 <footer>
     <div class="container">

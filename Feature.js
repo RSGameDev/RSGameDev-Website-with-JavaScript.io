@@ -8,7 +8,6 @@ function darkModeFunction() {
 }
 
 // Sticky bar
-
 document.addEventListener("DOMContentLoaded", function () {
     var navbar = document.getElementById("nav");
     var sticky = navbar.offsetTop;
@@ -26,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 });
 
-// Popup
+// PopUp
 function popUpFunction() {
     var popup = document.getElementById("myPopup");
     popup.classList.toggle("show");
@@ -45,5 +44,17 @@ function openFullscreen() {
         elem.webkitRequestFullscreen();
     } else if (elem.msRequestFullscreen) { /* IE11 */
         elem.msRequestFullscreen();
+    }
+}
+
+// Toggle text
+function toggleText() {
+    var x = document.getElementById("myDIV");
+    if (x.innerHTML === "We review PC Games") {
+        x.innerHTML = "and Console Games";
+        x.style.fontSize = "28px";
+    } else {
+        x.innerHTML = "We review PC Games";
+        x.style.fontSize = "28px";
     }
 }

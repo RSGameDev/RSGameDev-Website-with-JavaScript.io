@@ -6,18 +6,15 @@
     <title>Gaming Compendium</title>
     <link rel="stylesheet" type="text/css" href="gamingStyles.css" />
     <script src="feature.js" defer></script>
-    <!--<style>
-        #indexImg {
-            width: 960px;
-        }
-    </style>-->
+
 </head>
 <body>
 
-
-    <!-- this is the dark mode feature-->
+    <!-- JavaScript dark mode feature-->
     <button onclick="darkModeFunction()">Toggle dark mode</button>
 
+    <!-- JavaScript Fullscreen button addition -->
+    <button class="fullscreen-btn" onclick="openFullscreen();">⛶</button>
 
     <!--header includes the main logo, and navigation section-->
     <header>
@@ -35,8 +32,6 @@
         </nav>
     </header>
 
-    <button class="fullscreen-btn" onclick="openFullscreen();">⛶</button>
-
     <!--main will contain the core text for the home page; gameplay, presentation, verdict for the game review-->
     <main>
         <div class="container">
@@ -46,11 +41,13 @@
             <p>
                 Verdict: It’s always a good sign when a game’s only major downside is that there just isn’t enough of it. The elegant simplicity of Hearthstone’s rules, its impressive attention to detail and personality, and the true viability of playing completely for free make it easy to fall under its spell and get blissfully lost in the depths of its strategic possibilities.
             </p>
-            <!--<img id="indexImg" src="images/indexheroes.jpg" alt="image of ...." /> -->
+
+            <!-- JavaScript PopUp feature addition -->
             <div class="popup" onclick="popUpFunction()">
                 <img src="images/indexheroes.jpg" alt="image of ...." />
                 <span class="popuptext" id="myPopup">All 10 Classes available in game!</span>
             </div>
+            Click image for pop-up
 
         </div>
     </main>
