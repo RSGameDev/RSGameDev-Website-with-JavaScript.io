@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D783546F-838F-4BEB-8497-D970C2073E37}|Solution Items{D783546F-838F-4BEB-8497-D970C2073E37}|E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\Feature.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D783546F-838F-4BEB-8497-D970C2073E37}|Solution Items{D783546F-838F-4BEB-8497-D970C2073E37}|solutionrelative:Feature.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D783546F-838F-4BEB-8497-D970C2073E37}|Solution Items{D783546F-838F-4BEB-8497-D970C2073E37}|E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\gamingStyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D783546F-838F-4BEB-8497-D970C2073E37}|Solution Items{D783546F-838F-4BEB-8497-D970C2073E37}|solutionrelative:gamingStyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D783546F-838F-4BEB-8497-D970C2073E37}|Solution Items{D783546F-838F-4BEB-8497-D970C2073E37}|E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\about us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D783546F-838F-4BEB-8497-D970C2073E37}|Solution Items{D783546F-838F-4BEB-8497-D970C2073E37}|solutionrelative:about us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D783546F-838F-4BEB-8497-D970C2073E37}|Solution Items{D783546F-838F-4BEB-8497-D970C2073E37}|E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D783546F-838F-4BEB-8497-D970C2073E37}|Solution Items{D783546F-838F-4BEB-8497-D970C2073E37}|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D783546F-838F-4BEB-8497-D970C2073E37}|Solution Items{D783546F-838F-4BEB-8497-D970C2073E37}|E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\feature.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D783546F-838F-4BEB-8497-D970C2073E37}|Solution Items{D783546F-838F-4BEB-8497-D970C2073E37}|solutionrelative:feature.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D783546F-838F-4BEB-8497-D970C2073E37}|Solution Items{D783546F-838F-4BEB-8497-D970C2073E37}|E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,6 +13,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{D783546F-838F-4BEB-8497-D970C2073E37}|Solution Items{D783546F-838F-4BEB-8497-D970C2073E37}|E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\gallery.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D783546F-838F-4BEB-8497-D970C2073E37}|Solution Items{D783546F-838F-4BEB-8497-D970C2073E37}|solutionrelative:gallery.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D783546F-838F-4BEB-8497-D970C2073E37}|Solution Items{D783546F-838F-4BEB-8497-D970C2073E37}|E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\about us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D783546F-838F-4BEB-8497-D970C2073E37}|Solution Items{D783546F-838F-4BEB-8497-D970C2073E37}|solutionrelative:about us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D783546F-838F-4BEB-8497-D970C2073E37}|Solution Items{D783546F-838F-4BEB-8497-D970C2073E37}|E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\gamingStyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D783546F-838F-4BEB-8497-D970C2073E37}|Solution Items{D783546F-838F-4BEB-8497-D970C2073E37}|solutionrelative:gamingStyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D783546F-838F-4BEB-8497-D970C2073E37}|Solution Items{D783546F-838F-4BEB-8497-D970C2073E37}|E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D783546F-838F-4BEB-8497-D970C2073E37}|Solution Items{D783546F-838F-4BEB-8497-D970C2073E37}|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "feature.js",
+              "DocumentMoniker": "E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\feature.js",
+              "RelativeDocumentMoniker": "feature.js",
+              "ToolTip": "E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\feature.js",
+              "RelativeToolTip": "feature.js",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAC0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-09T14:53:22.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "gamingStyles.css",
               "DocumentMoniker": "E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\gamingStyles.css",
               "RelativeDocumentMoniker": "gamingStyles.css",
@@ -46,25 +59,11 @@
               "RelativeToolTip": "gamingStyles.css",
               "ViewState": "AQIAAG8AAAAAAAAAAAAAAIkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-08T20:42:18.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T20:42:18.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Feature.js",
-              "DocumentMoniker": "E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\Feature.js",
-              "RelativeDocumentMoniker": "Feature.js",
-              "ToolTip": "E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\Feature.js",
-              "RelativeToolTip": "Feature.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-08T15:54:22.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "about us.html",
               "DocumentMoniker": "E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\about us.html",
               "RelativeDocumentMoniker": "about us.html",
@@ -79,11 +78,11 @@
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "contact.html",
               "DocumentMoniker": "E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\contact.html",
               "RelativeDocumentMoniker": "contact.html",
@@ -96,20 +95,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "gallery.html",
               "DocumentMoniker": "E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\gallery.html",
               "RelativeDocumentMoniker": "gallery.html",
               "ToolTip": "E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\gallery.html",
               "RelativeToolTip": "gallery.html",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAAAIgAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-08-09T08:37:47.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "index.html",
               "DocumentMoniker": "E:\\WebDev\\MyWebsiteProjectRS with JavaScript\\GamingWebsite\\Website-with-JavaScript\\index.html",
               "RelativeDocumentMoniker": "index.html",
